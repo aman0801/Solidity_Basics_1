@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "Armstrong",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/8.sol": "Q8"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/8.sol": {
+			"keccak256": "0x8b14ff3c594cf1275071b952db0718fdfd6a7b2d6bac397e65ba94b05d8aaea0",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://b6952a6da52a638aeb620fdd15679fcc1542b7cf1bcc2cd6a91683f10a355969",
+				"dweb:/ipfs/QmUTyEyz7pUk1JcSpzrzsEfdBQt7G3QgLFXchBXt8N2Vc1"
+			]
+		}
+	},
+	"version": 1
+}

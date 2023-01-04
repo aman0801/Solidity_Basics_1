@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "OddOrEven",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/2.sol": "Q2"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/2.sol": {
+			"keccak256": "0x0b49e062dc33bcb7fe839ae6a4d75f95d108aa39c48ca37b34b470e86124637b",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://32e2e8b8605f419e12f106c48bd3f3c825de1e3b1305d52f0fcfbb5ca519f2a9",
+				"dweb:/ipfs/QmdyVKc6DC5JnEzXMPeAw8bTsvm9DNa6gzoceqhdzNgNxH"
+			]
+		}
+	},
+	"version": 1
+}

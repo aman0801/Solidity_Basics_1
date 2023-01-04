@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "prime",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/7.sol": "Q7"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/7.sol": {
+			"keccak256": "0x411b14a9ecd9d4b2aedfb42b3dd0c18ac09b826840c5f69e8fa199f3e615dbc1",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://d5167ebf2b6ecc2fdc9b78c8498af3d07ec7414bc33865ea571c40730c26ce9a",
+				"dweb:/ipfs/QmW6fUTD7nMpotEfkRBi7t8Phs267Qm661Wdez5rfn4wzR"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "cube",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/1.sol": "Q1"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/1.sol": {
+			"keccak256": "0x9e41964f166ff820f8762bb33a63bebcae91f797a24904bcd99afc6117175d83",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://0365eba27b725fc262ef618c17e3cdb858fb9c0a5da1dc3b2caf16b474470b91",
+				"dweb:/ipfs/QmcVx89o1r6SzL1qFFKV1PWtmPEPpjfzFcpZ5E3RZxPHLo"
+			]
+		}
+	},
+	"version": 1
+}
